@@ -1,18 +1,34 @@
 # Pandas-Sales-Analysis-
 Analyzed sales data to identify trends and patterns in product performance, using pandas for data manipulation and visualization.
-# Sales-Analysis
 
-Set of real world data science tasks completed using the Python Pandas library.
 
-# Background Information:
+### Project Description
+This project involves analyzing sales data to identify trends and patterns in product performance. The analysis is conducted using pandas for data manipulation and visualization. Key metrics such as total sales, best-selling products, and profit margins are explored to provide actionable insights.
 
-In this video we use Python Pandas & Python Matplotlib to analyze and answer business questions about 3 years worth of sales data. The data contains thousands of store purchases broken down by month, product type, cost, purchase address, etc.
+### Installation
+To run the analysis, you'll need to have Python installed along with the following packages:
 
-We have answered these 5 questions through our data analysis mainly using pandas and matplotlib library.
+pandas
+matplotlib
+seaborn
+jupyter (optional, for running Jupyter notebooks)
 
-Q1. What is the overall sales trend? <br>
-Q2. Which are the Top 10 products by sales?<br>
-Q3. Which are the Most Selling Products?<br>
-Q4. Which is the most preferred Ship Mode?<br>
-Q5. Which are the Most Profitable Category and Sub-Category?
+### Analysis
+The analysis includes the following steps:
 
+Data Loading and Cleaning: Load the dataset and perform necessary cleaning operations, such as handling missing values and correcting data types.
+
+Exploratory Data Analysis (EDA): Explore the dataset to understand its structure and key metrics.
+
+Sales Analysis: Group products by various attributes (e.g., product name, category, sub-category) and calculate total sales and profits.
+
+Visualization: Generate visualizations to highlight key findings and trends in the data.
+
+### Results
+The key findings from the analysis include:
+
+Top 10 Best-Selling Products: A list of products with the highest quantities sold.
+
+Top 10 Products by Sales: A list of products with the highest total sales revenue.
+
+Category and Sub-Category Performance: Insights into which categories and sub-categories are most profitable.
